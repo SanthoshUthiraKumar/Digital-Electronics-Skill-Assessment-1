@@ -1,7 +1,7 @@
 # Digital-Electronics-Skill-Assessment-1
 ### AIM:
 To design and simulate the logic diagram using Verilog and validate its output
-![Assignment1Question](https://user-images.githubusercontent.com/119477975/212839679-2db8be69-357d-4742-8004-bb3973c911b2.jpg)
+![Assignment1Question](https://user-images.githubusercontent.com/119477975/212844070-9dae3f6b-217b-44b4-bef7-909eaddb23de.jpg)
 
 ### HARDWARE REQUIRED: –
 PC, Cyclone II , USB flasher
@@ -16,7 +16,7 @@ Logic gates are the basic building blocks of any digital system. Logic gates are
 AND gate, OR gate, NOT gate ,NAND gate, NOR gate, Ex-OR gate ,Ex-NOR gate
 
 ### Logic Diagram
-![Assignment1LD](https://user-images.githubusercontent.com/119477975/212839765-cc950f21-cf7a-4aac-b77a-4fa0412821ab.jpg)
+![Assignment1LG](https://user-images.githubusercontent.com/119477975/212844214-c0113a36-c154-445b-b3ce-97f10e16ef49.jpg)
 
 ### Logic Expression 
 F=A'B'+C'D'+B'D
