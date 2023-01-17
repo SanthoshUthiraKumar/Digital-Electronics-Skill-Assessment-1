@@ -19,7 +19,10 @@ AND gate, OR gate, NOT gate ,NAND gate, NOR gate, Ex-OR gate ,Ex-NOR gate
 ![Assignment1LG](https://user-images.githubusercontent.com/119477975/212844214-c0113a36-c154-445b-b3ce-97f10e16ef49.jpg)
 
 ### Logic Expression 
-F=A'B'+C'D'+B'D
+F=(A'+B').(C'+D').(B'+D)
+
+### Block Diagram
+![Assignment1BD](https://user-images.githubusercontent.com/119477975/212849022-9f8fdb09-3ab9-4c40-8c3f-257af990abd7.jpg)
 
 ### Produre
 ### 1. Using AND gate and wires construct the circuit.
